@@ -8,7 +8,7 @@ I am a developer who has been coding for a year now and is interested in full st
 
 *   🌍  I'm based in Nigeria
 *   ✉️  You can contact me at [davidarogunre@gmail.com](mailto:davidarogunre@gmail.com)
-*   🧠  I'm learning Backend Development, Data Science, Docker and Golang
+*   🧠  I'm learning Backend Development, Golang and I'm interested in learning Data Science
 *   🤝  I'm open to collaborating on Full Stack Projects
 *   ⚡  I am a Maths Enthusiast and a Pianist
 
