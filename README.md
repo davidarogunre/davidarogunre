@@ -1,7 +1,7 @@
 Hi 👋 My name is David Arogunre
 ===============================
 
-14 yr old Full Stack Developer
+15 yr old Full Stack Developer
 ------------------------------
 
 I am a developer who has been coding for a year now and is interested in full stack web development
