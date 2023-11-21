@@ -4,11 +4,10 @@ Hi 👋 My name is David Arogunre
 15 yr old Full Stack Developer
 ------------------------------
 
-I am a developer who has been coding for a year now and is interested in full stack web development
 
 *   🌍  I'm based in Nigeria
 *   ✉️  You can contact me at [davidarogunre@gmail.com](mailto:davidarogunre@gmail.com)
-*   🧠  I'm interested in web3 and full stack development 
+*   🧠  I'm interested in full stack development and exploring ML/AI
 *   🤝  I'm open to collaborating on Full Stack Projects
 *   ⚡  I am a Maths Enthusiast and a Pianist
 
