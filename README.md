@@ -1,7 +1,7 @@
 Hi 👋 My name is David Arogunre
 ===============================
 
-15 yr old Full Stack Developer
+15 yr old Full Stack Web Developer
 ------------------------------
 
 
@@ -9,7 +9,7 @@ Hi 👋 My name is David Arogunre
 *   ✉️  You can contact me at [davidarogunre@gmail.com](mailto:davidarogunre@gmail.com)
 *   🧠  I'm interested in full stack development and exploring ML/AI
 *   🤝  I'm open to collaborating on Full Stack Projects
-*   ⚡  I am a Maths Enthusiast and a Pianist
+*   ⚡  I am a Maths Enthusiast and a Pianist, Learn more about me @ https://folu.codes
 
 <a href="https://www.twitter.com/davidarogunre" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/davidarogunre?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
